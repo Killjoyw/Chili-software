@@ -1,0 +1,29 @@
+.botones{
+    float:right;
+    margin-right: 40px;
+}
+
+.barra{
+    float:right ;
+    margin-right: 30%;
+}
+.Datos{
+    float: left;
+    margin-left: 40px;
+}
+ 
+    
+
+.imagen{
+    width: 100px;
+}
+.imh{
+    float: left;
+
+}
+
+ 
+body{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+}
